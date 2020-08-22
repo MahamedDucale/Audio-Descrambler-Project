@@ -1,11 +1,4 @@
-/*
- * -------------------------------------------
- *    MSP432 DriverLib - v3_10_00_09
- * -------------------------------------------
- *
- * Scenario X: real-time descrambler
- * Maryam H. Group 7
- */
+
 
 /* DriverLib Includes */
 #include "driverlib.h"
